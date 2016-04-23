@@ -1,0 +1,11 @@
+ 18 Ralway Stations from Tamil Nadu are   given. A passenger need ticket. 
+ Upto the 5 stations journey, fare is 10 Rs. After the 5 stations, for every 5 stations, 
+ 5 Rs extra will be charged. For the full stretch journey i.e. From 1st to the last station, fare is 20 Rs. 
+ 
+ Input 1 : StationFrom - Guindy, StationTo - Kadambakkam 
+ Output 1 : Print ticket. i.e. StationFrom : Guindy, StationTo : Kadambakkam, Total Stops : 3, Total Fare : 10 
+ 
+ Input 2 : StationFrom - Guindy , StationTo - Chennai Fort 
+ Output 2 : Print ticket. i.e. StationFrom : Guindy, StationTo : Chennai Fort, Total Stops : 8, Total Fare :15 
+ 
+ Code should follow design principles, patterns. Test Driven Development would be preferable, not mandatory though. 
