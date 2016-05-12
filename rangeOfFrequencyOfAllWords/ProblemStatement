@@ -1,0 +1,10 @@
+Question:
+You are given a set of words (w1,w2,....,wk) which occur in a certain document D and for each word an associated position list which is an sorted integer array of positions at which that word occurs in D, 
+you need to find smallest range in thdocument which contains all the words at least once.
+
+Example input:
+W1: [4, 10, 15, 24, 26]
+W2: [0, 3, 9, 12, 20]
+W3: [5, 18, 22, 30]
+
+The smallest range here would be [20, 24] as it contains 24 from word 1's list, 20 from word 2's list, and 22 from word 3's list.
